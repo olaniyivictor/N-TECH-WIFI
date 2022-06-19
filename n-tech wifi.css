@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* html{
+    height: 100%;
+    width: 100%;
+} */
+body{
+    font-family: sans-serif;
+    font-weight: bold;
+    width: 100%;
+    height: 100%;
+    background-image: url(R.jpg);
+    background-size: cover;
+    background-repeat:  no-repeat;
+    
+    
+    
+}
+.nav-links{
+    background-color:#6f42C1; 
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    width: 100%;
+    color:#6f42C1;
+    height: 50px;
+      
+}
+.nav-items{
+    margin-left: 50px;
+
+    
+}
+.nav-items a{
+    color: white;
+    text-decoration: none;
+}
+.nav-items a:hover{
+    background-color:#17a2b8;
+}
+.btx{
+background-color:#17a2b8;
+border: none;
+border-radius: 10px 10px 10px 10px;
+padding: 10px;
+color: white;
+}
+.menu{
+    color: white;
+    margin-left: 120px;
+    margin-top: 150px;
+    font-size: 50px;
+
+}
+.fern{
+    color:#6f42C1
+}
+.desc{
+    background-color:#343a40;;
+    width: 40%;
+    height: 70%;
+    margin-left: 550px;
+    margin-top:-220px;
+}
+.sign{
+    color: white;
+    padding: 10px;
+    border-bottom: 2px solid #007bff;
+}
+.btn-primary{
+    margin-left: 30px;
+    padding: 10px;
+    color:#6c757d;;
+    background-color: lightskyblue;
+    border: none;
+    border-radius: 3px 3px 3px 3px;
+    font-size: 20px;
+    margin-top: 10px;
+    
+}
+.address{
+    margin-left: 30px;
+    color: white;
+    margin-top: 40px;
+    margin-top: 20px;
+}
+.e-mail{
+    margin-left: 30px;
+    margin-top: 10px;
+    width: 85%;
+    height: 30px;
+    color: #6c757d; 
+}
+.word{margin-left: 30px;
+    color: white;
+    margin-top: 40px;
+    margin-top: 20px;
+
+}
+.password{ margin-left: 30px;
+    margin-top: 10px;
+    width: 85%;
+    height: 30px;
+    color: #6c757d; 
+
+}
+.fer{
+    background-color: #6f42C1;
+    color: white;
+    margin-left: 30px;
+    border: none;
+    font-size: 30px;
+    width: 85%;
+    height: 20%;
+}
+.border{
+    border-bottom: 2px solid #007bff;
+}
+.footer{
+    margin-left: 30px;
+    margin-top: 10px;
+    padding: 20px;
+    font-size: 15px;
+}
+.span{
+    color: #007bff;
+}
