@@ -1,2 +1,2 @@
 # N-TECH-WIFI
-I clone a N-TECH Wifi Homepage making use of Form, Navigationbar and div.
+N-TECH-WIFI homepage with amazing design using html and css only
